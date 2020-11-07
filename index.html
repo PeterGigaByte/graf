@@ -12,33 +12,48 @@
           crossorigin="anonymous">
 
     <link rel="stylesheet" href="stylesheet.css">
-
     <script src="javascript.js"></script>
 
 </head>
 
 <body>
-        <!-- nadpis -->
+
 
         <header>
 
             <div class="head">
-
                 Graf funkcie sin(x) a cos(x)
-
             </div>
 
         </header>
 
-        <!-- graf TODO -->
+
 
         <main>
 
-            <div id="chartContainer" style="height: 370px; width: 100%;"></div>
+            <div class="checkboxes">
+                <label class="container">Sinus(x)
+                    <input type="checkbox" id="sinus"  name="sinus" checked="checked" value="true">
+                    <span class="checkmark"></span>
+                </label>
 
+                <label class="container">Cosinus(x)
+                    <input type="checkbox" id="cosinus" name="cosinus" checked="checked" value="true">
+                    <span class="checkmark"></span>
+                </label>
+            </div>
+
+            <div class="chartContainer" id="chartContainer" ></div>
             <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 
-            <!-- buttons TODO -->
+
+            <div class="button">
+                <input id="button" type="button" name="button" value="zastaviť" class="btn btn-danger button">
+            </div>
+
+            <range-component>
+
+            </range-component>
 
 
 

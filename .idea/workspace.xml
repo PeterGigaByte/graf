@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a23a0d0e-b601-43f5-a443-a71e53097c76" name="Default Changelist" comment="" />
+    <list default="true" id="a23a0d0e-b601-43f5-a443-a71e53097c76" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mapy" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,22 +48,48 @@
       <option name="presentableId" value="Default" />
       <updated>1604683937880</updated>
       <workItem from="1604683938954" duration="925000" />
-      <workItem from="1604696826664" duration="6869000" />
+      <workItem from="1604696826664" duration="12576000" />
+      <workItem from="1604710621681" duration="12711000" />
+      <workItem from="1604741549573" duration="3355000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1604703820328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604703820328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604703790087">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604716187570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/270.-768.1360.728@0.0.1920.1040" timestamp="1604703790087" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/270.-768.1360.728@0.0.1920.1040" timestamp="1604716187570" />
     <state x="784" y="421" key="Github.CreateGistDialog" timestamp="1604703777369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="784" y="421" key="Github.CreateGistDialog/0.0.1920.1040/270.-768.1360.728@0.0.1920.1040" timestamp="1604703777369" />
+    <state x="838" y="417" key="Github.ShareDialog" timestamp="1604703897544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040/270.-768.1360.728@0.0.1920.1040" timestamp="1604703897544" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604703849572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/270.-768.1360.728@0.0.1920.1040" timestamp="1604703849572" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604744064976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/270.-768.1360.728@0.0.1920.1040" timestamp="1604744064976" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1604685139730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -67,5 +98,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="dock-window-2/0.0.1920.1040/270.-768.1360.728@0.0.1920.1040" timestamp="1604685139730" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604710856384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/270.-768.1360.728@0.0.1920.1040" timestamp="1604710856384" />
   </component>
 </project>
